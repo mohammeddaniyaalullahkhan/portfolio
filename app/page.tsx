@@ -136,7 +136,7 @@ export default function Home() {
         <div className="contact-actions"><a className="button button-light" href="mailto:mohammeddaniyaalullahkhan@gmail.com">Start a conversation <span>↗</span></a><a href="https://github.com/mohammeddaniyaalullahkhan" target="_blank" rel="noreferrer">GitHub ↗</a><a href="/Daniyaalullah_Khan_ATS_DevOps_Resume.docx" download>Resume ↓</a></div>
       </section>
 
-      <footer><a className="brand" href="#top"><span>DK</span><i /></a><p>Designed for reliable delivery.</p><p>© {new Date().getFullYear()} Daniyaalullah Khan Mohammed</p></footer>
+      <footer><a className="brand" href="#top"><span>DK</span><i /></a><p>Designed for reliable delivery.</p><p>© 2023 Daniyaalullah Khan Mohammed</p></footer>
     </main>
   );
 }
